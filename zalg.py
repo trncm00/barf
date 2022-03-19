@@ -1,6 +1,5 @@
 #!/bin/python3
 
-from asyncio.constants import DEBUG_STACK_DEPTH
 from random import choice
 from sys import argv
 
