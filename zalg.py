@@ -1,5 +1,5 @@
 #!/bin/python3
-
+#change
 from random import choice
 from sys import argv
 
